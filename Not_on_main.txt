@@ -1,0 +1,4 @@
+--seperate branch
+day1Branch
+
+git checkout -b "BranchDay1"

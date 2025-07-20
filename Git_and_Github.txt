@@ -50,3 +50,5 @@ git add .
 git status
 git commit -m "Commit Message"
 git push
+
+git checkout -b "BranchDay1"
