@@ -1,0 +1,52 @@
+Git and Github Commands
+
+Github why?
+>>mainly used for version control
+v1
+v2
+v3
+new developer v4
+
+down the line maybe there are bugs in the new dev version 
+So we can just release the older version and work accordingly
+
+>>It is distributed (on Cloud)
+>>collaboration : any one can come and commit ot the code there
+>>Tracking changes
+>>Recovery
+
+Github 
+GitLabs
+BitBucket
+GitPod
+
+Repo/Repository :
+contains all the files of the specific/respective project
+
+Public : anyone can see but you choose who can commit
+Private : Paid. you choose who can see and commit to the repository
+
+
+README.md file :
+>>used to document all the commands 
+>>Long desciption of the project
+
+gitignore :
+contains all the files that should not be pushed on to the git
+
+Need to configure github for the 1st time :
+the comment is : git config --global user.name "amolsalvi1775"
+                 git config --global user.email "amolsalvi2020@gmail.com" 
+                 git config --global color.ui auto
+
+Mandatory commands :
+git init
+git remote add origin https://github.com/amolsalvi1775/GitDemo.git
+
+git pull origin main
+git status
+
+git add .
+git status
+git commit -m "Commit Message"
+git push
