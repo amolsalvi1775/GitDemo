@@ -1,0 +1,185 @@
+Fundamental of WEB DEV idk what to expect from ts
+
+MERN :
+
+>> M: MongoDB (Database) : store our data persistently over here
+>> E: Expressjs (Backend) : In order to build server
+>> A/R: Angularjs/Reactjs (Frontend) : Loooks
+>> N: Nodejs (Backend)
+
+
+3 building blocks/pillars:
+
+>>HTML (Hyper Text Markup Language) : raw contents on the screen
+static application : wont be having any dynamic action 
+>>CSS (Cascading Style Sheets), Bootstrap, Tailwind : styling
+
+>>JS (Java Script)
+used for dynamic actions
+brain/heart of the webpage : logical
+
+Other Stacks : Mern, Mean, Java Full Stack, Python Full Stack
+
+
+with all 3 we can build dynamic websites
+
+
+Web dev :
+>> Building/Developers Team : restricted to code and get the functionality shit ON 
+can also do certain amount of system testing as well
+Or unit testing
+
+>> Testing Team : Manual/Automated Testers
+Cross check everything 
+in case of any breakage or loopholes the dev team is sent back to fix that
+Once the website is error free the control is shifted on to the Hosting Team
+
+>>Hosting Team : Devops team
+make sure that the web application in available on the client side machine as well
+
+>>Maintenance Team/Support Team : 
+takes feedback
+gives instruction to the people who dont know how to use
+
+
+SDLC : Software Development Life Cycle >> Basically the approach in which the above teams interact with each other
+>> Waterfall Model : 
+Definition: A linear and sequential development model.
+
+Phases: Requirements → Design → Implementation → Testing → Deployment → Maintenance.
+
+Key Features:
+
+Each phase must be completed before the next begins.
+
+No going back once a phase is finished.
+
+Best For: Projects with well-defined requirements and minimal change.
+
+>> Agile Model :
+
+Definition: An iterative and incremental model focusing on flexibility and customer collaboration.
+
+Key Features:
+
+Development is divided into sprints (typically 2-4 weeks).
+
+Continuous feedback, testing, and improvement.
+
+Emphasizes working software over documentation.
+
+Best For: Projects with changing requirements and need for quick delivery.
+
+
+>> Spiral Model : 
+
+Definition: A risk-driven model combining iterative development and systematic risk analysis.
+
+Phases per cycle: Planning → Risk Analysis → Engineering → Evaluation.
+
+Key Features:
+
+Development goes through repeated spirals, refining the product each time.
+
+Focuses on risk management.
+
+Best For: Large, complex, and high-risk projects.
+
+>> Iterative Model :
+
+Definition: A model where software is developed in iterations, each adding improvements.
+
+Key Features:
+
+Initial version is created, then improved in repeated cycles.
+
+Feedback is gathered after each iteration.
+
+Best For: Projects that need progressive refinement.
+
+>> Incremental Model :
+
+Definition: The product is built and delivered in small functional parts (increments).
+
+Key Features:
+
+Each increment adds a working feature.
+
+Earlier increments are tested and used while others are developed.
+
+Best For: Projects needing early partial delivery of the product.
+
+>> V shaped Model :
+
+Definition: An extension of the Waterfall model with testing at each development stage.
+
+Key Features:
+
+Each development phase has a corresponding testing phase.
+
+Emphasizes verification and validation.
+
+Best For: Projects where testing is a priority and requirements are fixed.
+
+>> RAD Rapid Application Development Model :
+
+Definition: A model focused on quick development using prototypes and user feedback.
+
+Key Features:
+
+Uses reusable components and time-boxed development.
+
+Emphasizes user involvement.
+
+Best For: Projects that need rapid delivery and can involve frequent user interaction.
+
+URL : Uniform Resource Locator
+The link 
+https://www.instagram.com/log-in
+
+https : Protocol full form : Hypertext Transfer Protocol Secure
+instagram : server/domain name
+www : subdomain 
+.com : TLD (Top Level Domain)
+/log-in : Path/Location where we are at the moment on the live browser
+
+Protocol : Sets of rules/instructions
+Eg : https(Hypertext Transfer Protocol Secure) http(Hypertext Transfer Protocol)  
+tcp(Transmission Control Protocol) udp(User Datagram Protocol) smtp(Simple Mail Transfer Protocol) 
+ftp(File Transfer Protocol) ip(Internet Protocol)
+
+SSL (Secure Socket Layer) Certification : makes sure that the information sent on the site is secured 
+The reason why we use https instead of http is to keep the data secure
+
+Server/Domain Name :
+Unique Identification Purpose
+Eg : Google, Infosys, Oracle
+
+Sub-Domain :
+gMeet
+gMail
+gMap
+gPhotos
+gChrome
+gPay
+
+
+TLD :
+
+amazon.in (India)
+amazon.org (Organization)
+amazon.com (Commercial)
+amazon.uk (United Kingdom)
+amazon.edu (Education)
+
+Offline Editors
+>>Notepad
+>>Notepad++
+>>Sublime
+>>Open Brackets
+>>Visual Studio code
+
+Online Editors
+>>Codespace
+>>CodeSandbox
+
